@@ -11,7 +11,7 @@ const illustration = {
 const greeting = {
   username: 'Soham Mondal',
   title: "Soham",
-  subTitle: emoji('Technologist and silicon product developer 💻 by profession | A passionate product developer 📦 who keeps on exploring the fast evolving tech world, learn and take inspirations from them | Continuous fast paced learner 📖, improver 🏃‍♂️, team-worker 🤝 | Experienced product professional with a history of working in semiconductor product development industry for 5+ years. Skilled in core engineering disciplines of semiconductor industry of architecture, design, software/firmware and verification. Experienced in silicon, software and systems product development. Passionate about research and strategic product specification analysis, technology leadership, silicon product and project management'),
+  subTitle: emoji('(Disclaimer! In case you are not able to view every section of this portfolio, especially the achievement section, please open it in your mobile in desktop mode...)      Technologist and silicon product developer 💻 by profession | A passionate product developer 📦 who keeps on exploring the fast evolving tech world, learn and take inspirations from them | Continuous fast paced learner 📖, improver 🏃‍♂️, team-worker 🤝 | Experienced product professional with a history of working in semiconductor product development industry for 5+ years. Skilled in core engineering disciplines of semiconductor industry of architecture, design, software/firmware and verification. Experienced in silicon, software and systems product development. Passionate about research and strategic product specification analysis, technology leadership, silicon product and project management'),
   resumeLink:
     'https://drive.google.com/file/d/188ClATxAnAKTPjuVLfzdpVAmRwY4Ao4z/view?usp=sharing',
   displayGreeting: true, // Set false to hide this section, defaults to true
@@ -149,6 +149,7 @@ const educationInfo = {
         'Marketing Analyst at Qrius (2018)-Conducted a consulting thesis on Psychology of Persuasion (Robert Cialdini) and devise competitive and conclusive strategies to increase sales of E-commerce',
         'Equity researcher at Money Roller (2017)-global financial market research on Gold price valuation and financial modeling',
         'Network Management intern at ONGC (2018) and Nettech pvt ltd (2016) – systems programming, computer networks, network and information security, firewall, DoS and cyber attacks setted up realtime startopology LAN network of 25+ workstations and a HTTP application server',
+        'Undertook courses in STL, Embedded C++ and Bash scripting from LinkedIn',
         'Instructor for Physics, Mathematics for 20+ JEE and NEET aspirants (2016-2019)',
         'Assistant-VP JU Science Club; Organized annual techfest Srijan; increased footfall from 400 to 700+; Mentored a team of 7+ (1st runners up  prize in 1 competition)', 
         'Marketing management certificate under Professor Sameer Mathur, IIM Lucknow | Trained in marketing strategy and business case studies (HBS) (2017)',
@@ -698,8 +699,8 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle:"Discuss an opportunity in product management or just want to say hi? My Inbox is open for all.",
-  number: "+91-8335805583",
+  subtitle:"My mobile no +91-8335805583. Disclaimer! In case you are not able to view every section of this portfolio, especially the achievement section, please open it in your mobile in desktop mode...Many thanks!",
+  number: "",
   email_address: "sohammondal39@gmail.com"
 };
 
