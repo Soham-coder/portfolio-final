@@ -582,11 +582,6 @@ const achievementSection = {
           url:
             'https://www.slideshare.net/slideshow/osvc-wall-of-fame-memory-solutions-product-and-development/267554201',
         },
-        //{
-          //name: 'Abstract Slides (Raw Version)',
-          //url:
-            //'https://www.slideshare.net/slideshow/osvcmetadata-based-simulation-automation-to-overcome-verification-challenges-of-soc-interconnect-bus-matrixpptx/267554329',
-        //},
       ],
     },
     
