@@ -316,7 +316,7 @@ const workExperiences = {
     },
     {
       role: 'Assistant Product Management Consultant',
-      company: 'Cogno AI (now part of Exotel',
+      company: 'Cogno AI - now part of Exotel',
       companylogo: require('./assets/images/cognoAI.webp'),
       date: 'Aug 2018 – Jan 2019 (Internship)',
       desc:
