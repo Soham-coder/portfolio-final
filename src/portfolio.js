@@ -11,7 +11,7 @@ const illustration = {
 const greeting = {
   username: 'Soham Mondal',
   title: "Soham",
-  subTitle: emoji('(Disclaimer! In case you are not able to view every section of this portfolio, especially the achievement section, please open it in your mobile in desktop mode...)      Technologist and silicon product developer 💻 by profession | A passionate product developer 📦 who keeps on exploring the fast evolving tech world, learn and take inspirations from them | Continuous fast paced learner 📖, improver 🏃‍♂️, team-worker 🤝 | Experienced product professional with a history of working in semiconductor product development industry for 5+ years. Skilled in core engineering disciplines of semiconductor industry of architecture, design, software/firmware and verification. Experienced in silicon, software and systems product development. Passionate about research and strategic product specification analysis, technology leadership, silicon product and project management'),
+  subTitle: emoji('Technologist and silicon product developer 💻 by profession | A passionate product developer 📦 who keeps on exploring the fast evolving tech world, learn and take inspirations from them | Continuous fast paced learner 📖, improver 🏃‍♂️, team-worker 🤝 | Experienced product professional with a history of working in semiconductor product development industry for 5+ years. Skilled in core engineering disciplines of semiconductor industry of architecture, design, software/firmware and verification. Experienced in silicon, software and systems product development. Passionate about research and strategic product specification analysis, technology leadership, silicon product and project management'),
   resumeLink:
     'https://drive.google.com/file/d/188ClATxAnAKTPjuVLfzdpVAmRwY4Ao4z/view?usp=sharing',
   displayGreeting: true, // Set false to hide this section, defaults to true
@@ -699,7 +699,7 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle:"My mobile no +91-8335805583. Disclaimer! In case you are not able to view every section of this portfolio, especially the achievement section, please open it in your mobile in desktop mode...Many thanks!",
+  subtitle:"My mobile no +91-8335805583. Disclaimer! In case you are not able to view every section of this portfolio, especially the achievement section, please open it on your mobile in desktop mode...Many thanks!",
   number: "",
   email_address: "sohammondal39@gmail.com"
 };
