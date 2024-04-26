@@ -444,22 +444,15 @@ const achievementSection = {
     },
     
     {
-      title: 'Professional Certification in Product Management @ LinkedIn',
+      title: 'Professional Certification in Product Management and other certification @ LinkedIn',
       subtitle: 'Product Management, Product Road Mapping, Product Strategy, Technical Product Management',
       image: require('./assets/images/LinkedIn_PM1.webp'),
       footerLink: [
         { name: 'Certificate', url: 'https://www.linkedin.com/learning/certificates/9d15b079e37a688d0b560007f9e09f906200e67ffe5eb1a0c5a382d2723c888b'},
-      ],
-    },
-
-    {
-      title: 'Other Certifications in Product Management @ LinkedIn',
-      subtitle: 'Product Management, Product Road Mapping, Product Strategy, Technical Product Management',
-      image: require('./assets/images/LinkedIn_PM2.webp'),
-      footerLink: [
         { name: 'Certificate', url: 'https://www.linkedin.com/learning/certificates/42433f9c0c641f839c9011fb38ee437094d287211c98f906b84c4f7097eebf98?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B%2FRImS33tQm%2BAxUpsAZhmbg%3D%3D'},
       ],
     },
+
     {
       title: 'Marketing Management Certificate @ IIM Lucknow',
       subtitle: 'Product Road Mapping, Product Strategy, Marketing Strategy, Brand Positioning',
@@ -486,35 +479,13 @@ const achievementSection = {
       ],
     },
     {
-      title: 'Coding Blocks',
-      subtitle: 'Development of Chatbots using Python and basic NLP and libraries and frameworks like NLTK and deployment',
-      image: require('./assets/images/chatbot.webp'),
-      footerLink: [
-        { name: 'Certificate', url: 'https://www.slideshare.net/slideshow/development-of-chatbots-using-python-and-basic-nlp/267536699' },
-      ],
-    },
-    {
-      title: 'Low-Power Simulation with IEEE Std 1801 UPF v18.09 Exam',
-      subtitle: 'Low power silicon product development, architecture, design, verification',
+      title: 'Silicon Engineering Professional Certifications',
+      subtitle: 'Low power silicon product development, architecture, design, verification, scalable testbench infrsatructure creation, and simulation infrastructure programming',
       image: require('./assets/images/Low-Power_Simulation_with_IEEE_Std_1801_UPF_v18.09_Exam_600x600.webp'),
       footerLink: [
-        { name: 'Badge', url: 'https://www.credly.com/badges/f6b3f0ce-d198-4447-8c1f-9c6414dfff90?source=linked_in_profile' },
-      ],
-    },
-    {
-      title: 'SystemVerilog Accelerated Verification with UVM v1.2.5 Exam',
-      subtitle: 'Scalable Testbench Infrastructure development focusing on OOP capabilities and modularity and reusability',
-      image: require('./assets/images/sv.webp'),
-      footerLink: [
-        { name: 'Badge', url: 'https://www.youracclaim.com/badges/cd96f36a-a508-414f-a9da-2fcfe3bd37ec?source=linked_in_profile' },
-      ],
-    },
-    {
-      title: 'Xcelium Simulator v19.03 Exam',
-      subtitle: 'Industry leading unified simulation infrastructure programming, usability and features',
-      image: require('./assets/images/Xcelium.webp'),
-      footerLink: [
-        { name: 'Badge', url: 'https://www.youracclaim.com/badges/5b737b9d-edbb-47c3-91d3-e71886d7b176?source=linked_in_profile' },
+        { name: 'Low-Power Simulation with IEEE Std 1801 UPF v18.09 Exam', url: 'https://www.credly.com/badges/f6b3f0ce-d198-4447-8c1f-9c6414dfff90?source=linked_in_profile' },
+        { name: 'SystemVerilog Accelerated Verification with UVM v1.2.5 Exam', url: 'https://www.youracclaim.com/badges/cd96f36a-a508-414f-a9da-2fcfe3bd37ec?source=linked_in_profile' },
+        { name: 'Xcelium Simulator v19.03 Exam', url: 'https://www.youracclaim.com/badges/5b737b9d-edbb-47c3-91d3-e71886d7b176?source=linked_in_profile' },
       ],
     },
     {
