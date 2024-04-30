@@ -11,7 +11,7 @@ const illustration = {
 const greeting = {
   username: 'Soham Mondal',
   title: "Soham",
-  subTitle: emoji('Technologist and silicon product developer 💻 by profession | A passionate product developer 📦 who keeps on exploring the fast evolving tech world, learn and take inspirations from them | Continuous fast paced learner 📖, improver 🏃‍♂️, team-worker 🤝 | Experienced product professional with a history of working in semiconductor product development industry for 5+ years. Skilled in core engineering disciplines of semiconductor industry of architecture, design, software/firmware and verification. Experienced in silicon, software and systems product development. Passionate about research and strategic product specification analysis, technology leadership, silicon product and project management'),
+  subTitle: emoji('Silicon product developer 💻 by profession | A passionate product developer 📦 who keeps on exploring the fast evolving tech world, learn and take inspirations from them | Continuous fast paced learner 📖, improver 🏃‍♂️, team-worker 🤝 | Experienced product professional with a history of working in semiconductor product development industry for 5+ years. Skilled in core engineering disciplines of semiconductor industry of architecture, design, software/firmware and verification. Experienced in silicon, software and systems product development. Passionate about research and strategic product specification analysis, technology leadership, silicon and software product and project management'),
   resumeLink:
     'https://www.slideshare.net/slideshow/rsum-2-pager-12-ft-standard-syntax/267677575',
   displayGreeting: true, // Set false to hide this section, defaults to true
@@ -42,7 +42,7 @@ const skillsSection = {
     emoji(
       '⚡Experienced in silicon product development, end-to-end ASIC development cycle, architecture, design and verification'
     ),
-    emoji('⚡Extensive coursework in Product management, and experience in end-to-end product development and lifecycle. Adept in product discovery, user-research, product analytics, hypothesis and validation, product requirement gathering, product roadmap and wireframing, prototyping, A/B testing, engineering sprint management and go-to-market strategy'
+    emoji('⚡Extensive coursework in Product management, and experience in end-to-end hardware and software product development and lifecycle. Adept in product discovery, user-research, product analytics, hypothesis and validation, product requirement gathering, product roadmap and wireframing, prototyping, A/B testing, engineering sprint management and go-to-market strategy'
           ),
     emoji('⚡Valuable exposure to marketing strategies, SWOT, PESTEL analysis, market research, customer segment, marketing and distribution channels, business recommendations, product-market-fit, product launch, go-to-market and launch strategies through real world not-for-profit consulting experience and business case studies'),
     emoji('⚡Used product design and collaboration tools like Canva, Mural, Figma and project management tools like JIRA and Confluence'),
@@ -225,10 +225,8 @@ const workExperiences = {
       desc:
         'Hyderabad, India - Central R&D',
         descBullets: [
-        'Executed functional and power-aware verification of host subsystem, comprising NVMe IC top and Power Management IC of client Solid State Drives',
-        'Created test cases, power sequence assertions and checkers from TCL app query function, ensured that power coverage met ~100%, performed gate-level simulations to ensure the chip met power requirements according to power architecture',
-        'Implemented a SOP for in-house power-aware verification and vendor regression tool integration and usage flow',
-        'Trained 4+ members on Unified power format and Gate level synthesis',
+        'Silicon product development, design, verification, engineering management, central r&d',
+        'Leading teams for IoT hardware solutions development, subsystem and SoC level development and validation of critical KPIs'
         ],
     },
 
@@ -240,10 +238,11 @@ const workExperiences = {
       desc:
         'Cork, Ireland - GPU Top Power Team',
         descBullets: [
-        'Executed functional and power-aware verification of host subsystem, comprising NVMe IC top and Power Management IC of client Solid State Drives',
-        'Created test cases, power sequence assertions and checkers from TCL app query function, ensured that power coverage met ~100%, performed gate-level simulations to ensure the chip met power requirements according to power architecture',
-        'Implemented a SOP for in-house power-aware verification and vendor regression tool integration and usage flow',
-        'Trained 4+ members on Unified power format and Gate level synthesis',
+        'Leadership: Played a crucial role in onboarding, leading 7+ members (NCGs, including senior level members) on GPU product development and engineering for setting up knowledge base and low power engineering capabilities in Ireland site from scratch. Developed product development training modules that was adopted across global sites, reduced ramp-up time of new hires by 60% and boosted development team’s productivity by 40%',
+        'Product Development: Spearheaded development of novel custom software API with UPF for streamlining and automating power management verification of GPU and full cycle GPU product development. Designed product roadmap, engineered and launched tool to be scalable across 4 versions of GPU projects for compute, mobile, auto and HPC markets and deployed across 5 vendor teams, leading to reduced TAT of power verification closure by 45% and successfully executing on Adreno’s ultra-low power product strategy',
+        'Improvement and Initiative: Identified savings of US$5M USD in external ARM IP licensing expense by replacing specific ARM IPs in architecture with efficient in-house IPs. Devised plan, engineered repurposing of GPU legacy interface with custom interface QSI, recouping US$1M annually, enhancing Qualcomm’s competitive advantage and reducing technical debt',
+        'Cross-functional communication: Coordinated and supported application engineering, software, architecture and platform teams spanning across USA, Canada, and India to define requirements, engineering, manage regression suites and product updates and milestones to senior leadership through waterfall and agile product lifecycle,  achieving timely power functionality compliance resulting in new market penetration to compute SoCs; quadrupling product’s TAM from US$190B to US$300B',
+        'Feature Management and Strategic Thinking: Owned end-to-end product feature and functional verification, improving KPI metrics (dynamic power, temperature, memory-access, throughput, silicon utilization, TFLOPS), leading to improved product strategy of on-device AI and timely product launch of Snapdragon-X-Elite',
         ],
     },
 
@@ -256,10 +255,8 @@ const workExperiences = {
       desc:
         'Bangalore, India & Seoul, Korea - Memory Solutions Design Platform Team',
         descBullets: [
-        'Executed functional and power-aware verification of host subsystem, comprising NVMe IC top and Power Management IC of client Solid State Drives',
-        'Created test cases, power sequence assertions and checkers from TCL app query function, ensured that power coverage met ~100%, performed gate-level simulations to ensure the chip met power requirements according to power architecture',
-        'Implemented a SOP for in-house power-aware verification and vendor regression tool integration and usage flow',
-        'Trained 4+ members on Unified power format and Gate level synthesis',
+        'Engineering and Problem Solving: Gathered and defined SoC product-requirements, scoped and prioritized system KPIs and established latency and secure access metrics for SSD and UFS memory solutions through multiple collaborations with design, product test, SW development, product and segment marketing, applications. Owned new PCIe low-power-LTSSM feature and functionality implementation and verification and led team of 4 members (masters & PhDs) in R&D initiative to optimize $1B silicon products for GPU, edge and HPC markets leading to growth of product revenue by 4.5% in 12 months',
+        'Product Development: Drove key competitive analysis of in-house power verification methodology and identified efficiency improvement parameters and developed long-term innovation ideas and vastly scalable, novel custom software product roadmap and engineering for verification and product engineering of memory controller designs and customer usage guides, reducing product engineering TAT by 68% with an estimated annual savings of US$220K in engineering costs/development cycle and estimated 7% improvement in YOY revenue Published a paper at reputed in-house technical conference and increased knowledge base and technical influence',
         ],
     },
     
@@ -273,9 +270,8 @@ const workExperiences = {
       desc:
         ' Bangalore, India - Emerging Growth Incubation',
         descBullets: [
-        'Provided end-to-end functional verification, test bench, test case, assertions, and checkers creation at subsystem and IP level for power management unit and clock control unit of Application Specific Integrated Circuits targeted towards ML and AI workloads for the automotive industry',
-        'Managed the setting up of gate-level simulation test bench for power-aware verification of netlist',
-        'Used scripting to manage weekly regressions and generate report for team and also to optimize on resource utilization through fast and fair retrieval of licenses which reduced process time by a factor of ~6',
+        'Process Automation: Developed a software product to automatically triage weekly regressions and simulation failures (~50 gigabytes of data/per week) and generate consumable reports, resulting in 25% improvement in engineering process productivity and 30% reduction in the overall debug time, while reducing product development lifecycle by 15%. Led the streamlining of user flow based on 50+ user interviews, market analysis to define product requirements for new features; resulting in increased user base from 12 to 110 in 4 months',
+        'Data Analysis: Identified technical debt and expense of manual engineering effort of 67hrs/month per product development cycle;  Devised a novel method which analyzed waveform meta-data and interpret 3-4 terabytes of refined design data to generate automated checkers, thereby increasing testing efficiency by a factor of 2, feature coverage by 28%, saving $130K in engineering costs per development cycle. Analyzed functional, performance and low-power coverage data and oversaw the coverage closure activity for IP, SS and SoC scale of product requirements with a team of 9, qualifying 10+ functional safety standards for automotive silicon products and achieving reliability of 100%',
         ],
     },
     {
@@ -286,12 +282,8 @@ const workExperiences = {
       desc:
         'Bangalore, India & Seoul, Korea - Memory Solutions, SoC and HSS Design-Platform Team',
       descBullets: [
-        'Developed and launched a novel auto-test bench tool for automatic creation of error-free verification environment for AMBA Network Interconnect, deployed it in several teams of Samsung Electronics, Korea and appreciated by VP of Samsung memory div., Korea; Tool saved 70+ man hours and reduced turn-around-time by ~60%',
-        'Published whitepaper in Samsung global one solution conference participated by all Samsung Semiconductor Research centres. Was awarded 3rd prize among 200+ shortlisted publications.',
-        'Pioneered end-to-end engineering automation efforts with a 4-member cross-cultural global team to lead the development, gather the requirements from stakeholders, set up of tool infrastructure and standardization in adherence to IPXACT format.',
-        'Delivered functional verification of UniPro (Unified Protocol) and UFS (Unified Flash Storage) subsystem of high end mobile SoC through supporting in setting up test bench, developing of layering sequence to translate protocol, feature verification of Data link Layer and Phy adapter layer.',
-        'Verified I2C and SMBus (System Management Bus) through both vendor and custom UVC (Universal Verification Component) creation and integration.',
-        'Awarded 2 employee of the month awards across 2 years from 1000+ employees in the memory subdivision',
+        'Product Development: Identified huge error count and US$1.7M excess expense in product engineering and product development;  Spearheaded from scratch product roadmap and end-to-end engineering and deployment of a custom novel software for automatic creation of error-free verification infrastructure for a customizable Network-interconnect, across 6 global teams, saved 70+ man hours per integration and testing cycle and reduced time-to-first-test by 60%, resulting in an estimated annual savings of US$4.5M in purchased product licenses and 100% reduction in error-count in engineering process. Enabled a 4-member cross-cultural global team in Seoul for 6+ months for E2E-auto-testbench product during its’ adoption, prototype testing, and life cycle. Conducted 120+ user interviews, market analysis, customer research to define key product requirements for new features resulting in 100% user adoption, 80% increase in user satisfaction. Received appreciation award from VP of Engineering, Samsung Memory Solutions. Published white paper at Samsung Global Engineering Conference attended by all global Samsung semiconductor research hubs; cultivated global recognition to the group and increase in technical influence Awarded 3rd prize among 150+ competitive shortlisted publications. Identified need for one EDA simulation software, and savings of $220K in product engineering costs and $300K in EDA tool staff training costs; Pioneered the development of COSMIC unified simulation infrastructure for adoption across 8 teams and scaled across 15 EDA features. Conducted 800+ user surveys, market analysis, coordinated between cross-functional teams to streamline user-flow across 3 EDA applications variant, bridging gap between technical and non-technical stakeholders; with increase in satisfaction level by 90% and 25% increase in customer conversion. Awarded 2 Employee of the Month Awards across 2 years among 700+ employees in Samsung memory subdivision',
+        'Engineering and Problem Solving: Identified need for technical asset implementation for integration of SS level VIPs and development of scalable SoC level VIPs. Developed unique test bench infrastructure components; layering sequence for protocol translation and customizable and scalable across 4+ HBM protocols, adopted by 3 parallel US$3-6B product developments, improving product quality and design efficiency by 9%; first time adoption in Samsung across 15+ global teams cultivated new standard for memory product engineering',
       ],
     },
    /*{
@@ -310,9 +302,7 @@ const workExperiences = {
       desc:
         'Bangalore, India - DRAM IP (Intellectual Property) Design Team',
       descBullets: [
-        'Researched to improve proprietary MBIST (Memory Built-In Self-Test IP) with new features for march algorithm tests',
-        'Developed RTL for glue logic unit to facilitate forward compatibility of MBIST commands from DDR3 to DDR4 and validated the same in FPGA',
-        'Received Pre-placement offer on basis of work',
+        'Problem Solving and Engineering: Researched and performed 10-15 A/B tests of resource and run-time heavy march algorithms of proprietary memory built-in self-test IP of Samsung. Made recommendations to senior management a hardware-centric algorithm to enhance testing time by 35%. Engineered and prototyped the solution and validated the same in a FPGA platform',
       ]
     },
     {
@@ -632,7 +622,7 @@ const blogSection = {
   blogs: [
     {
       url: 'https://reverent-northcutt-8163cd.netlify.app/blog/apb/',
-      title: 'verification-blog',
+      title: 'Blog',
       description:
         'Different concepts and applications of ultra-low power silicon development has been noted down. Many interview questions and prototype design and tesbench infrastructure development from scratch are incorporated which have helped many engineers, product developers (junior mid as well as senior level practitioners) currently working in well-known companies in their job search and placement journey',
     },
