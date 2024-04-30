@@ -13,7 +13,7 @@ const greeting = {
   title: "Soham",
   subTitle: emoji('Technologist and silicon product developer 💻 by profession | A passionate product developer 📦 who keeps on exploring the fast evolving tech world, learn and take inspirations from them | Continuous fast paced learner 📖, improver 🏃‍♂️, team-worker 🤝 | Experienced product professional with a history of working in semiconductor product development industry for 5+ years. Skilled in core engineering disciplines of semiconductor industry of architecture, design, software/firmware and verification. Experienced in silicon, software and systems product development. Passionate about research and strategic product specification analysis, technology leadership, silicon product and project management'),
   resumeLink:
-    'https://drive.google.com/file/d/188ClATxAnAKTPjuVLfzdpVAmRwY4Ao4z/view?usp=sharing',
+    'https://www.slideshare.net/slideshow/rsum-2-pager-12-ft-standard-syntax/267677575',
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
