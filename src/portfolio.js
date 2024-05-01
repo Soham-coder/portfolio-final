@@ -223,7 +223,7 @@ const workExperiences = {
       companylogo: require('./assets/images/silicon-labs.jfif'),
       date: 'Apr 2024 – Present',
       desc:
-        'Hyderabad, India - Central R&D',
+        'Hyderabad, India - Central R&D and IoT Solutions development',
         descBullets: [
         'Silicon product development, design, verification, engineering management, central r&d',
         'Leading teams for IoT hardware solutions development, subsystem and SoC level development and validation of critical KPIs'
@@ -231,32 +231,33 @@ const workExperiences = {
     },
 
     {
-      role: 'Senior Engineer',
+      role: 'Senior GPU Product Engineer',
       company: 'Qualcomm',
       companylogo: require('./assets/images/Qualcomm.jfif'),
       date: 'Jun 2023 – Apr 2024',
       desc:
-        'Cork, Ireland - GPU Top Power Team',
+        'Cork, Ireland - GPU product engineering',
         descBullets: [
-        'Leadership: Played a crucial role in onboarding, leading 7+ members (NCGs, including senior level members) on GPU product development and engineering for setting up knowledge base and low power engineering capabilities in Ireland site from scratch. Developed product development training modules that was adopted across global sites, reduced ramp-up time of new hires by 60% and boosted development team’s productivity by 40%',
-        'Product Development: Spearheaded development of novel custom software API with UPF for streamlining and automating power management verification of GPU and full cycle GPU product development. Designed product roadmap, engineered and launched tool to be scalable across 4 versions of GPU projects for compute, mobile, auto and HPC markets and deployed across 5 vendor teams, leading to reduced TAT of power verification closure by 45% and successfully executing on Adreno’s ultra-low power product strategy',
-        'Improvement and Initiative: Identified savings of US$5M USD in external ARM IP licensing expense by replacing specific ARM IPs in architecture with efficient in-house IPs. Devised plan, engineered repurposing of GPU legacy interface with custom interface QSI, recouping US$1M annually, enhancing Qualcomm’s competitive advantage and reducing technical debt',
-        'Cross-functional communication: Coordinated and supported application engineering, software, architecture and platform teams spanning across USA, Canada, and India to define requirements, engineering, manage regression suites and product updates and milestones to senior leadership through waterfall and agile product lifecycle,  achieving timely power functionality compliance resulting in new market penetration to compute SoCs; quadrupling product’s TAM from US$190B to US$300B',
-        'Feature Management and Strategic Thinking: Owned end-to-end product feature and functional verification, improving KPI metrics (dynamic power, temperature, memory-access, throughput, silicon utilization, TFLOPS), leading to improved product strategy of on-device AI and timely product launch of Snapdragon-X-Elite',
+        'Leadership and Training Development: Established and led a team of 7+, including senior engineers, to develop GPU product engineering capabilities in Ireland; built training modules that reduced new hire ramp-up time by 60% and increased team productivity by 40%, with these modules later adopted globally',
+        'Innovative Product Development: Implemented a custom API using UPF to automate power management verification, significantly reducing turnaround time by 45%; developed a scalable tool across 4 GPU versions, enhancing product adaptability in compute, mobile, auto, and HPC markets',
+        'Cost Reduction and IP Management: Achieved a $5M reduction in ARM IP licensing costs by integrating efficient in-house IPs into the architecture; spearheaded the redesign of GPU interfaces, saving $1M annually and strengthening Qualcomm’s market competitiveness',
+        'Cross-functional Team Coordination: Facilitated collaboration across application engineering, software, architecture, and platform teams in the USA, Canada, and India; managed product requirements and updates, contributing to a fourfold increase in the product’s total addressable market from $190B to $300B',
+        'Strategic Feature Management: Owned the end-to-end management of product features and functional verification, improving key performance indicators such as power efficiency and throughput; this strategic focus supported the launch of Snapdragon-X-Elite with advanced on-device AI capabilities',
         ],
     },
 
 
     {
-      role: 'Associate Staff Engineer',
+      role: 'Associate Staff Product Engineer',
       company: 'Samsung Semiconductor',
       companylogo: require('./assets/images/samsung.jfif'),
       date: 'Oct 2021 – Jun 2023',
       desc:
         'Bangalore, India & Seoul, Korea - Memory Solutions Design Platform Team',
         descBullets: [
-        'Engineering and Problem Solving: Gathered and defined SoC product-requirements, scoped and prioritized system KPIs and established latency and secure access metrics for SSD and UFS memory solutions through multiple collaborations with design, product test, SW development, product and segment marketing, applications. Owned new PCIe low-power-LTSSM feature and functionality implementation and verification and led team of 4 members (masters & PhDs) in R&D initiative to optimize $1B silicon products for GPU, edge and HPC markets leading to growth of product revenue by 4.5% in 12 months',
-        'Product Development: Drove key competitive analysis of in-house power verification methodology and identified efficiency improvement parameters and developed long-term innovation ideas and vastly scalable, novel custom software product roadmap and engineering for verification and product engineering of memory controller designs and customer usage guides, reducing product engineering TAT by 68% with an estimated annual savings of US$220K in engineering costs/development cycle and estimated 7% improvement in YOY revenue Published a paper at reputed in-house technical conference and increased knowledge base and technical influence',
+        'Engineering Leadership and Problem Solving: Defined SoC product requirements and established system KPIs including latency and secure access for SSD and UFS memory solutions; led a team of four advanced degree holders in R&D to optimize $1B silicon products for GPU, edge, and HPC markets, resulting in a 4.5% revenue increase within 12 months',
+        'Strategic Product Development: Conducted a competitive analysis of in-house power verification methodologies, identified efficiency improvements, and developed a scalable software product roadmap for memory controller designs; this reduced product engineering turnaround time by 68% and achieved an estimated annual saving of $220K in engineering costs, contributing to a 7% Y-o-Y revenue improvement',
+        'Innovation and Industry Contribution: Authored a paper on novel verification methodologies presented at a prestigious in-house technical conference, enhancing the company knowledge base',
         ],
     },
     
@@ -268,22 +269,23 @@ const workExperiences = {
       companylogo: require('./assets/images/intel.jfif'),
       date: 'May 2021 – Oct 2021',
       desc:
-        ' Bangalore, India - Emerging Growth Incubation',
+        ' Bangalore, India - IPU and Automotive/Robotics: Emerging Growth Incubation',
         descBullets: [
-        'Process Automation: Developed a software product to automatically triage weekly regressions and simulation failures (~50 gigabytes of data/per week) and generate consumable reports, resulting in 25% improvement in engineering process productivity and 30% reduction in the overall debug time, while reducing product development lifecycle by 15%. Led the streamlining of user flow based on 50+ user interviews, market analysis to define product requirements for new features; resulting in increased user base from 12 to 110 in 4 months',
-        'Data Analysis: Identified technical debt and expense of manual engineering effort of 67hrs/month per product development cycle;  Devised a novel method which analyzed waveform meta-data and interpret 3-4 terabytes of refined design data to generate automated checkers, thereby increasing testing efficiency by a factor of 2, feature coverage by 28%, saving $130K in engineering costs per development cycle. Analyzed functional, performance and low-power coverage data and oversaw the coverage closure activity for IP, SS and SoC scale of product requirements with a team of 9, qualifying 10+ functional safety standards for automotive silicon products and achieving reliability of 100%',
+        'Process Automation and Efficiency: Developed a software tool to automatically triage weekly regressions and simulation failures, processing approximately 50 gigabytes of data per week; this resulted in a 25% improvement in engineering productivity and a 30% reduction in debug time, shortening the product development lifecycle by 15%; also enhanced user experience by refining user flows based on feedback from over 50 user interviews and market analysis, expanding the user base from 12 to 110 in four months',
+        'Advanced Data Analysis and Cost Saving: Identified and addressed technical debt by automating the analysis of waveform metadata from 3-4 terabytes of design data, which doubled testing efficiency and increased feature coverage by 28%, saving $130K per development cycle; led a team of nine to oversee coverage closure activities across IP, SS, and SoC scales, meeting over 10 functional safety standards for automotive silicon products and achieving 100% reliability',
         ],
     },
     {
-      role: 'Senior Engineer',
+      role: 'Senior Product Engineer',
       company: 'Samsung Semiconductor',
       companylogo: require('./assets/images/samsung.jfif'),
       date: 'Jun 2019 – May 2021',
       desc:
-        'Bangalore, India & Seoul, Korea - Memory Solutions, SoC and HSS Design-Platform Team',
+        'Bangalore, India & Seoul, Korea - Memory Solutions Team',
       descBullets: [
-        'Product Development: Identified huge error count and US$1.7M excess expense in product engineering and product development;  Spearheaded from scratch product roadmap and end-to-end engineering and deployment of a custom novel software for automatic creation of error-free verification infrastructure for a customizable Network-interconnect, across 6 global teams, saved 70+ man hours per integration and testing cycle and reduced time-to-first-test by 60%, resulting in an estimated annual savings of US$4.5M in purchased product licenses and 100% reduction in error-count in engineering process. Enabled a 4-member cross-cultural global team in Seoul for 6+ months for E2E-auto-testbench product during its’ adoption, prototype testing, and life cycle. Conducted 120+ user interviews, market analysis, customer research to define key product requirements for new features resulting in 100% user adoption, 80% increase in user satisfaction. Received appreciation award from VP of Engineering, Samsung Memory Solutions. Published white paper at Samsung Global Engineering Conference attended by all global Samsung semiconductor research hubs; cultivated global recognition to the group and increase in technical influence Awarded 3rd prize among 150+ competitive shortlisted publications. Identified need for one EDA simulation software, and savings of $220K in product engineering costs and $300K in EDA tool staff training costs; Pioneered the development of COSMIC unified simulation infrastructure for adoption across 8 teams and scaled across 15 EDA features. Conducted 800+ user surveys, market analysis, coordinated between cross-functional teams to streamline user-flow across 3 EDA applications variant, bridging gap between technical and non-technical stakeholders; with increase in satisfaction level by 90% and 25% increase in customer conversion. Awarded 2 Employee of the Month Awards across 2 years among 700+ employees in Samsung memory subdivision',
-        'Engineering and Problem Solving: Identified need for technical asset implementation for integration of SS level VIPs and development of scalable SoC level VIPs. Developed unique test bench infrastructure components; layering sequence for protocol translation and customizable and scalable across 4+ HBM protocols, adopted by 3 parallel US$3-6B product developments, improving product quality and design efficiency by 9%; first time adoption in Samsung across 15+ global teams cultivated new standard for memory product engineering',
+        'Strategic Product Development and Cost Reduction: Identified critical inefficiencies leading to a $1.7M excess expense in product engineering; led the development and global deployment of a novel software for automatic verification infrastructure creation, reducing integration and testing cycle times by over 70 man-hours and accelerating time-to-first-test by 60%, resulting in $4.5M annual savings and eliminating error counts entirely. Facilitated a 4-member cross-cultural team in Seoul for comprehensive end-to-end testing and lifecycle management, enhancing product adoption and prototype testing',
+        'User-Centric Design and Market Analysis: Conducted over 120 user interviews and comprehensive market analysis to pinpoint essential product features, achieving 100% user adoption and an 80% increase in user satisfaction; recognized with an appreciation award from the VP of Engineering',
+        'Innovation and Recognition: Authored and presented a white paper at the Samsung Global Engineering Conference, which significantly raised the technical profile and influence of the group; received the 3rd prize among 150+ entries, highlighting the innovative approach to semiconductor engineering', 
       ],
     },
    /*{
