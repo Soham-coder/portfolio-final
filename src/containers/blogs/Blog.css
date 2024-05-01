@@ -1,7 +1,7 @@
 /*Blog Cards Layout*/
 .square {
-  width: 440px;
-  height: 430px;
+  width: 540px;
+  height: 530px;
   background: white;
   border-radius: 4px;
   box-shadow: 0px 20px 50px #d9dbdf;
@@ -44,7 +44,7 @@
 }
 
 /* Media Query */
-@media (max-width: 1380px) {
+@media (max-width: 2380px) {
   .blog-header-text {
     font-size: 40px;
   }
@@ -55,13 +55,13 @@
     text-align: center;
   }
   .blog-subtitle {
-    font-size: 16px;
+    font-size: 26px;
     line-height: normal;
     text-align: center;
   }
 }
 
-@media screen and (max-width: 480px) and (min-width: 300px) {
+@media screen and (max-width: 580px) and (min-width: 400px) {
   .blog-text-div {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   }

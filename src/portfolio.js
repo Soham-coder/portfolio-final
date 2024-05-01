@@ -620,14 +620,14 @@ display: true, // Set false to hide this section, defaults to true
 const blogSection = {
   title: 'Blogs',
   subtitle:
-    'With Love for Developing cool stuff, I love to write and let others know what I have learnt. But, unfortunately 😞 this blog is currently not maintained anymore and will be revamped later',
+    'I used to maintain a blog on different concepts and applications of ultra-low power silicon development. Many interview questions and concepts of prototype design and tesbench infrastructure development from scratch were incorporated which have helped many engineers, product developers (junior, mid-level along with seasoned professionals in the industry) in their job search and placement journey.  But, for now it is kept inactive for a while for minor reasons. Apologies for the inconvenience! 😞 ',
 
   blogs: [
     {
       url: 'https://reverent-northcutt-8163cd.netlify.app/blog/apb/',
       title: 'Blog',
       description:
-        'Different concepts and applications of ultra-low power silicon development has been noted down. Many interview questions and prototype design and tesbench infrastructure development from scratch are incorporated which have helped many engineers, product developers (junior mid as well as senior level practitioners) currently working in well-known companies in their job search and placement journey',
+        'APB Bus Interface Testbench Infrastructure Prototype',
     },
   ],
   display: true, // Set false to hide this section, defaults to true
