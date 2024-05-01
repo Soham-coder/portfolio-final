@@ -680,9 +680,9 @@ const talkSection = {
 
 const podcastSection = {
   title: emoji('Hobbies ⚽ and Passion ❤️‍🔥'),
-  subtitle: '❤️‍🔥 Passionate about creation and delivery of impactful and user-centric solutions that resonate with both stakeholders and end-users',
+  subtitle: '❤️‍🔥 Passionate about creation and delivery of impactful and user-centric products & solutions that resonate with both stakeholders and end-users',
   // Please Provide with Your Podcast embeded Link
-  subsubtitle: '❤️‍🔥 Passionate about technical product management (software & hardware), power, performance and security efficient silicon and systems, hitechnology products and technology, AI, GenAI',
+  subsubtitle: '❤️‍🔥 Passionate about technical product management (software & hardware), power, performance and security efficient silicon and systems, hitechnology products and services, AI & GenAI',
   subsubsubtitle: '⚽ Hobbies - Karate, Yoga, Cycling, Travelling, Blogging, Reading Books and Watching Anime! 💡 Interest in socio-economic micro and macro factors impacting the world',
   podcast: [
     //'https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo',
