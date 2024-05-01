@@ -424,7 +424,7 @@ const achievementSection = {
         { name: 'Credential', url: 'https://certificate.productschool.com/97975d86-f050-4c7b-958a-e2b8fd4a0b65#gs.7x55f4' },
       ],
     },
-/*
+
     {
       title: 'MasterCamp in Product Management @ Masters Union',
       subtitle: 'Product discovery, product analytics, agile and waterfall methodologies',
@@ -433,7 +433,7 @@ const achievementSection = {
         { name: 'Diploma', url: 'https://mastersunion.org/view-certificate/634545bc5591749d3a4d3fb2' },
       ],
     },
-    
+/*    
     {
       title: 'Professional Certification in Product Management and other certification @ LinkedIn',
       subtitle: 'Product Management, Product Road Mapping, Product Strategy, Technical Product Management',
