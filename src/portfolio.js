@@ -302,7 +302,7 @@ const workExperiences = {
       companylogo: require('./assets/images/samsung.jfif'),
       date: 'May 2018 – Jul 2018 (Internship)',
       desc:
-        'Bangalore, India - DRAM IP (Intellectual Property) Design Team',
+        'Bangalore, India - DRAM IP Product Development Team',
       descBullets: [
         'Problem Solving and Engineering: Researched and performed 10-15 A/B tests of resource and run-time heavy march algorithms of proprietary memory built-in self-test IP of Samsung. Made recommendations to senior management a hardware-centric algorithm to enhance testing time by 35%. Engineered and prototyped the solution and validated the same in a FPGA platform',
       ]
