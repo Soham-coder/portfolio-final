@@ -435,7 +435,7 @@ const achievementSection = {
         { name: 'Diploma', url: 'https://mastersunion.org/view-certificate/634545bc5591749d3a4d3fb2' },
       ],
     },
-/*    
+   
     {
       title: 'Professional Certification in Product Management and other certification @ LinkedIn',
       subtitle: 'Product Management, Product Road Mapping, Product Strategy, Technical Product Management',
@@ -445,7 +445,7 @@ const achievementSection = {
         { name: 'Certificate', url: 'https://www.linkedin.com/learning/certificates/42433f9c0c641f839c9011fb38ee437094d287211c98f906b84c4f7097eebf98?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B%2FRImS33tQm%2BAxUpsAZhmbg%3D%3D'},
       ],
     },
-
+/*
     {
       title: 'Marketing Management Certificate @ IIM Lucknow',
       subtitle: 'Product Road Mapping, Product Strategy, Marketing Strategy, Brand Positioning',
