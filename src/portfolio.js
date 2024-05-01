@@ -691,8 +691,8 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
-  subtitle:"My mobile no +91-8335805583. Disclaimer! In case you are not able to view every section of this portfolio, especially the achievement section, please open it on your mobile in desktop mode...Many thanks!",
+  title: emoji(""),
+  subtitle:"☎️ +91-8335805583",
   number: "",
   email_address: "sohammondal39@gmail.com"
 };
