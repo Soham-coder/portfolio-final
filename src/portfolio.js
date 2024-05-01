@@ -424,7 +424,7 @@ const achievementSection = {
         { name: 'Credential', url: 'https://certificate.productschool.com/97975d86-f050-4c7b-958a-e2b8fd4a0b65#gs.7x55f4' },
       ],
     },
-
+/*
     {
       title: 'MasterCamp in Product Management @ Masters Union',
       subtitle: 'Product discovery, product analytics, agile and waterfall methodologies',
@@ -479,7 +479,7 @@ const achievementSection = {
         { name: 'Xcelium Simulator v19.03 Exam', url: 'https://www.youracclaim.com/badges/5b737b9d-edbb-47c3-91d3-e71886d7b176?source=linked_in_profile' },
       ],
     },
-   /* {
+    {
       title: 'Low power performance efficient high-quality silicon design',
       subtitle: 'Low power architecture and design concepts and applications in ultra-low power silicon product development',
       image: require('./assets/images/udemy.webp'),
@@ -488,8 +488,8 @@ const achievementSection = {
         { name: 'SV assertion for design and verification', url: 'https://www.udemy.com/certificate/UC-3fc08d5e-10dc-4270-88ad-15aad1f1d4fb/' },
         { name: 'Timing constraints and STA', url: 'https://verified.sertifier.com/en/verify/21774893908771/' },
       ],
-    }, */
-   /* {
+    }, 
+    {
       title: 'Programming Essentials',
       subtitle: 'C standard library, C programming for Embedded Applications, Bash scripting',
       image: require('./assets/images/bash.webp'),
@@ -498,7 +498,7 @@ const achievementSection = {
         { name: 'Embedded C', url: 'https://www.linkedin.com/learning/certificates/e5d28f3828949888f1a105cce543599cf429cb9a32bd0e5e7548d24d40a78771?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BFPRv2JaPSjqVt5MkT71Z%2Fg%3D%3D' },
         { name: 'Bash Scripting', url: 'https://www.linkedin.com/learning/certificates/15752e13a61bfc0e3d47c090d947854a3fee27c16bb32aadcac476b91f0284f2?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BFPRv2JaPSjqVt5MkT71Z%2Fg%3D%3D' },
       ],
-    },*/
+    },
     {
       title: 'Student Partner for Internshala (2016)',
       subtitle: 'Acted as student partner for Internshala in 2016, for Jadavpur University and conducted marketing campaigns, social media marketing, social outreach programs to increase members by 125+, increase product reach by 15% (new market) and customer satisfaction by 70%',
@@ -525,14 +525,14 @@ const achievementSection = {
       ],
     },
 
-    /*{
+    {
       title: 'Equity Researcher at Money Roller (2017)',
       subtitle: 'Conducted global financial market research on Gold price valuation and financial modeling',
       image: require('./assets/images/the_money_roller_logo.webp'),
       footerLink: [
         { name: 'Acknowledgement', url: 'https://drive.google.com/file/d/0BxM540VPs0PdUVlSbmp0dGNqNHc/view' },
       ],
-    },*/
+    },
     {
       title: '3rd prize (work smart category) in One Solution Conference by Samsung Global R&D',
       subtitle:
@@ -607,6 +607,7 @@ const achievementSection = {
       image: require('./assets/images/community_service.webp'),
       footerLink : [],
     },
+    */
 
 ],
 display: true, // Set false to hide this section, defaults to true
