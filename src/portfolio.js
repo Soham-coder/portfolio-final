@@ -11,7 +11,7 @@ const illustration = {
 const greeting = {
   username: 'Soham Mondal',
   title: "Soham",
-  subTitle: emoji('Silicon product developer 💻 by profession | A passionate product developer 📦 who keeps on exploring the fast evolving tech world, learn and take inspirations from them | Continuous fast paced learner 📖, improver 🏃‍♂️, team-worker 🤝 | Experienced product professional with a history of working in semiconductor product development industry for 5+ years. Skilled in core engineering disciplines of semiconductor industry of architecture, design, software/firmware and verification. Experienced in silicon, software and systems product development. Passionate about research and strategic product specification analysis, technology leadership, silicon and software product and project management'),
+  subTitle: emoji('Silicon product developer 💻 by profession | A passionate product developer 📦 who keeps on exploring the fast evolving tech world, learn and take inspirations from them | Continuous fast paced learner 📖, improver 🏃‍♂️, team-worker 🤝 | Experienced product professional with a history of working in semiconductor product development industry for 5+ years. Skilled in core engineering disciplines of semiconductor industry of architecture, design, software/firmware and verification. Experienced in silicon, software and systems product development. With my background in Silicon Engineering and Product Development, I always think about the big picture and endeavour to solve crucial problems, utilising our best strengths as a team, to make the world a better place! Passionate about research and strategic product specification analysis, technology leadership, silicon and software product and project management'),
   resumeLink:
     'https://www.slideshare.net/slideshow/rsum-2-pager-12-ft-standard-syntax/267677575',
   displayGreeting: true, // Set false to hide this section, defaults to true
@@ -58,11 +58,11 @@ const skillsSection = {
       '⚡Have extensive knowledge in various industry standard and native protocols including RISCV, low power design and verification, sparse CNN and DNN inference accelerator architectures, neural networks, Tensorflow, PyTorch, building customised neural nets for edge AI applications'
     ),
     emoji(
-      '⚡Exploring domain specific accelerators, sparse DNN training/inference accelerators, low power verification automation, Spiking Neural Networks and design verification automation' ),
+      '⚡Explored domain specific accelerators, sparse DNN training/inference accelerators, low power verification automation, Spiking Neural Networks and design verification automation' ),
     emoji(
         '⚡Have experience in Version Control Systems and robust deployment and backend development in Netlify, Heroku, Flask, Docker'
       ),
-    emoji('⚡Passionate about technical product management(sw & hw), power, performance and security efficient silicon and systems, hitech products and technology' ),
+    emoji('⚡Passionate about technical product management(sw & hw), power, performance and security efficient silicon and systems, high-tech products and services' ),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -412,9 +412,9 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji('Certifications, Achievements 🏆 & Extra-Curriculars'),
+  title: emoji('Some Certifications 📄 & Extra-Curriculars 🏃'),
   subtitle:
-    'Certifications, Achievements and Extra-Curriculars!',
+    'Some Certifications & Extra-Curriculars (mostly not mentioned Résumé)',
 
   achievementsCards: [
 
@@ -445,8 +445,8 @@ const achievementSection = {
         { name: 'Certificate', url: 'https://www.linkedin.com/learning/certificates/42433f9c0c641f839c9011fb38ee437094d287211c98f906b84c4f7097eebf98?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B%2FRImS33tQm%2BAxUpsAZhmbg%3D%3D'},
       ],
     },
-/*
-    {
+
+   /* {
       title: 'Marketing Management Certificate @ IIM Lucknow',
       subtitle: 'Product Road Mapping, Product Strategy, Marketing Strategy, Brand Positioning',
       image: require('./assets/images/iiml.webp'),
@@ -454,6 +454,7 @@ const achievementSection = {
         { name: 'Certificate', url: 'https://www.slideshare.net/slideshow/final-completion-certificate-of-marketing-management-internship/267528125'},
       ],
     },
+
     {
       title: 'Business Development and Product Strategy for a SME named SARL based in Lebanon as part of a local NGO (Zahle Casa) initiative - Certificate',
       subtitle: 'Go-to-market strategy, Business Development, Product Marketing, Product Strategy',
@@ -461,7 +462,7 @@ const achievementSection = {
       footerLink: [
         { name: 'Acknowledgement', url: 'https://www.slideshare.net/slideshow/business-development-and-product-strategy-for-a-sme-named-sarl-based-in-lebanon-as-part-of-a-local-ngo-zahle-casa-initiativecertificate/267528925'},
       ],
-    },
+    },*/
 
     {
       title: 'Network Management intern @Nettech Pvt. Ltd and IT management intern @ONGC Pvt. Ltd',
@@ -501,6 +502,7 @@ const achievementSection = {
         { name: 'Bash Scripting', url: 'https://www.linkedin.com/learning/certificates/15752e13a61bfc0e3d47c090d947854a3fee27c16bb32aadcac476b91f0284f2?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BFPRv2JaPSjqVt5MkT71Z%2Fg%3D%3D' },
       ],
     },
+    /*
     {
       title: 'Student Partner for Internshala (2016)',
       subtitle: 'Acted as student partner for Internshala in 2016, for Jadavpur University and conducted marketing campaigns, social media marketing, social outreach programs to increase members by 125+, increase product reach by 15% (new market) and customer satisfaction by 70%',
@@ -566,18 +568,17 @@ const achievementSection = {
       footerLink : [
         { name: 'Prize 1', url: 'https://www.slideshare.net/slideshow/employee-of-the-month-samsung-semiconductor-india-research/267528754' },
       ],
-    },
-
+    },*/
+   
     {
-      title: 'Other Awards',
-      subtitle: '3rd prize in fine arts inter-school competition UDAAN (25 schools participated in Kolkata) in the state of West Bengal by the Government of India (2007); Stage-1 Qualifier in NTSE by MHRD, India (4000+ students) (2011)',
+      title: 'Fine Arts 🎨',
+      subtitle: '3rd prize in fine arts inter-school competition UDAAN (25 schools participated in Kolkata) in the state of West Bengal by the Government of India (2007)',
       image: require('./assets/images/ntse_sphs.webp'),
       footerLink : [
         { name: 'South Point High School', url: 'https://www.linkedin.com/school/south-point-high-school/?originalSubdomain=in' },
-        { name: 'National Talent Search Examination', url: 'https://ncert.nic.in/national-talent-examination.php' },
       ],
     },
-
+/*
     {
       title: 'Student Mentor at Jadavpur University Science Club',
       subtitle: 'Assistant-VP JU Science Club; Organized annual techno-management fest Srijan; increased footfall from 400 to 700+; Mentored a junior team of 7+ (1st runners up prize in 1 competition)',
@@ -595,6 +596,8 @@ const achievementSection = {
         { name: 'Jadavpur University Model United Nations', url: 'https://www.linkedin.com/company/jadavpur-university-model-united-nations/?originalSubdomain=in' },
       ],
     },
+    */
+   /*
     {
       title: 'Toastmaster',
       subtitle: 'Involved in debate, discussions, delivering speeches and organising the events. Acted as toasmaster (3+ months) in spiritual talk speaker series in Toastmaster International Intel Corporation Chapter (2021-2022); ',
@@ -604,12 +607,17 @@ const achievementSection = {
       ],
     },
     {
-      title: 'Community Service',
+      title: 'Community Services',
       subtitle: 'Donated educational resources and stationery items for sensitization of 70 underprivileged students in an NGO under the aegis of Bharat Sevasram Trust (2021). Instructor for Physics, Mathematics for 20+ JEE and NEET aspirants (2016-2019); Volunteer in Doddanakundi (largest natural lake in Bangalore India) cleaning drive as part of ESG initiative and CSR activities',
       image: require('./assets/images/community_service.webp'),
       footerLink : [],
+    }, */
+    {
+      title: 'Outdoor games',
+      subtitle: 'Playing Cricket 🏏',
+      image: require('./assets/images/cricket.webp'),
+      footerLink : [],
     },
-    */
 
 ],
 display: true, // Set false to hide this section, defaults to true
@@ -666,10 +674,17 @@ const talkSection = {
       slides_url: 'https://www.slideshare.net/slideshow/osvcmetadata-based-simulation-automation-to-overcome-verification-challenges-of-soc-interconnect-bus-matrixpptx/267554329',
     },
     {
-      title: 'Comparative analysis of low power full adders',
+      title: 'Novel encryption algorithm and software development',
+      subtitle: 'Improved performance ECC algorithm implementation and application and comprative benefits with RSA',
+      slides_url: 'https://www.slideshare.net/slideshow/novel-encryption-algorithm-and-software-development-ecc-and-rsa/267604257',
+      event_url: 'https://github.com/Soham-coder/ecc_vs_rsa',
+    },
+    {
+      title: 'Comparative analysis of low power full adders (UG Thesis)',
       subtitle: 'Comparative analysis of low power CMOS architectures of adder circuits which is a basic cell which is widely used across in any silicon products. Novel architecture modelling in silicon level of an ultra-low power and performance efficient adder and strategic analysis of comparative advantages gained on existing adder circuits commercially used',
       slides_url: 'https://github.com/Soham-coder/UG-Thesis',
     },
+
   ],
   
   
@@ -680,10 +695,10 @@ const talkSection = {
 
 const podcastSection = {
   title: emoji('Hobbies ⚽ and Passion ❤️‍🔥'),
-  subtitle: '❤️‍🔥 Passionate about creation and delivery of impactful and user-centric products & solutions that resonate with both stakeholders and end-users',
+  subtitle: '❤️‍🔥 Passionate about creation and delivery of impactful and user-centric products & solutions that resonate with both stakeholders and end-users, together as a team and utilising our own unique strengths, fostering inclusivity and properity',
   // Please Provide with Your Podcast embeded Link
-  subsubtitle: '❤️‍🔥 Passionate about technical product management (software & hardware), power, performance and security efficient silicon and systems, hitechnology products and services, AI & GenAI',
-  subsubsubtitle: '⚽ Hobbies - Karate, Yoga, Cycling, Travelling, Blogging, Reading Books and Watching Anime! 💡 Interest in socio-economic micro and macro factors impacting the world',
+  subsubtitle: '❤️‍🔥 Passionate about technical product management (software & hardware), power, performance and security efficient silicon and systems, high-technology products and services, AI & GenAI',
+  subsubsubtitle: '⚽ Hobbies - Karate, Yoga, Cycling, Travelling, Blogging, Reading Books and Watching Anime! 💡 Interest in socio-economic micro and macro factors impacting the world. Outside work love to take part in constructive debates and discussions',
   podcast: [
     //'https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo',
   ],
