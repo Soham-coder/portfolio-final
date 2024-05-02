@@ -698,7 +698,7 @@ const podcastSection = {
   subtitle: '❤️‍🔥 Passionate about creation and delivery of impactful and user-centric products & solutions that resonate with both stakeholders and end-users, together as a team and utilising our own unique strengths, fostering inclusivity and properity',
   // Please Provide with Your Podcast embeded Link
   subsubtitle: '❤️‍🔥 Passionate about technical product management (software & hardware), power, performance and security efficient silicon and systems, high-technology products and services, AI & GenAI',
-  subsubsubtitle: '⚽ Hobbies - Karate, Yoga, Cycling, Travelling, Blogging, Reading Books and Watching Anime! 💡 Interest in socio-economic micro and macro factors impacting the world. Outside work love to take part in constructive debates and discussions',
+  subsubsubtitle: '🧘 Hobbies - Karate, Yoga, Cycling, Travelling, Blogging, Reading Books and Watching global news about economics and current affairs! 💡 Interest in socio-economic micro/macro factors impacting the world, spiritual discussions. Outside work love to take part in constructive debates and discussions',
   podcast: [
     //'https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo',
   ],
