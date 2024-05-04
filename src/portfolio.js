@@ -414,7 +414,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji('Some Certifications 📄 & Extra-Curriculars 🏃'),
   subtitle:
-    'Some Certifications & Extra-Curriculars (mostly not mentioned Résumé)',
+    'Some Certifications & Extra-Curriculars (mostly not mentioned in my Résumé)',
 
   achievementsCards: [
 
