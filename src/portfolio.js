@@ -341,7 +341,7 @@ const bigProjects = {
   projects: [
     {
       image: require('./assets/images/SARL.webp'),
-      link: 'https://www.slideshare.net/slideshow/business-development-plan-for-sawaya-for-agriculture-trading-sarl/267512569',
+      link: 'https://www.slideshare.net/slideshow/business-development-and-product-strategy-for-a-sme-named-sarl-based-in-lebanon-as-part-of-a-local-ngo-zahle-casa-initiativecertificate/267528925',
       text: 'Business Development Consulting for a SME, Sawaya for Africulture & Trading (SARL), Lebanon as part of a local NGO initiative',
     },
     {
