@@ -137,7 +137,8 @@ const educationInfo = {
       logo: require('./assets/images/cmu.jpg'),
       subHeader: 'MSPM (Product Management)',
       duration: 'Jan 2025 - Dec 2025',
-      desc: 'An ultra-competitive STEM-designated accelerated tech-MBA program razor focused towards high technology product management coursework integrating the right mix of business, high-technology, design, AI strategy and leadership skills from global #9 (Bloomberg Businessweek) Tepper School of Business and #1 (US News & World Report) School of Computer Science and Human Computer Interaction Institute',
+      desc: 'An elite, STEM-designated, accelerated Tech MBA, precision-engineered for high-tech product management, seamlessly integrating advanced business strategy, AI, design, and leadership. Offered by the world-renowned Tepper School of Business (#9, Bloomberg) in collaboration with the #1-ranked School of Computer Science (US News) and the prestigious Human-Computer Interaction Institute, this ultra-competitive program delivers an unrivaled fusion of business and cutting-edge technology expertise',
+     /* desc: 'An ultra-competitive STEM-designated accelerated tech-MBA program razor focused towards high technology product management coursework integrating the right mix of business, high-technology, design, AI strategy and leadership skills from global #9 (Bloomberg Businessweek) Tepper School of Business and #1 (US News & World Report) School of Computer Science and Human Computer Interaction Institute',*/
       descBullets: [
         'The Accelerate Leadership Assessment',
         'Business Fundamentals for High Technology Product Management',
