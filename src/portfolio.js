@@ -10,8 +10,8 @@ const illustration = {
 
 const greeting = {
   username: 'Soham Mondal',
-  title: "Soham",
-  subTitle: emoji('Silicon product developer 💻 by profession | A passionate product developer 📦 who keeps on exploring the fast evolving tech world, learn and take inspirations from them | Continuous fast paced learner 📖, improver 🏃‍♂️, team-worker 🤝 | Experienced product professional with a history of working in semiconductor product development industry for 5+ years. Skilled in core engineering disciplines of semiconductor industry of architecture, design, software/firmware and verification. Experienced in silicon, software and systems product development. With my background in Silicon Engineering and Product Development, I always think about the big picture and endeavour to solve crucial problems, utilising our best strengths as a team, to make the world a better place! Passionate about research and strategic product specification analysis, technology leadership, silicon and software product and project management'),
+  title: "About Me",
+  subTitle: emoji('Technical Product Manager specializing in ultra-low power, energy-efficient edge AI silicon and software ecosystems. Focused on driving innovation for next-gen AI, IoT, gaming, and smart devices by translating business needs into advanced semiconductor solutions. Passionate about integrating edge AI to enhance product capabilities and create impactful, scalable ecosystems.'),
   resumeLink:
     'https://www.slideshare.net/slideshow/rsum-2-pager-12-ft-standard-syntax/267677575',
   displayGreeting: true, // Set false to hide this section, defaults to true
@@ -50,9 +50,6 @@ const skillsSection = {
           ),
     emoji(
       '⚡Hands on in verilog, system-verilog, system-c, multiple EDA softwares for comprehensive hardware design, verification and validation'
-    ),
-    emoji(
-      '⚡Used Shell scripting, TCL, CMake for automation, tool-chain integration and silicon synthesis'
     ),
     emoji(
       '⚡Have extensive knowledge in various industry standard and native protocols including RISCV, low power design and verification, sparse CNN and DNN inference accelerator architectures, neural networks, Tensorflow, PyTorch, building customised neural nets for edge AI applications'
@@ -134,6 +131,32 @@ https://fontawesome.com/icons?d=gallery */
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
+
+    {
+      schoolName: 'Carnegie Mellon University - Tepper School of Business',
+      logo: require('./assets/images/cmu.jpg'),
+      subHeader: 'MSPM (Product Management)',
+      duration: 'Jan 2025 - Dec 2025',
+      desc: 'An ultra-competitive STEM-designated accelerated tech-MBA program razor focused towards high technology product management coursework integrating the right mix of business, high-technology, design, AI strategy and leadership skills from global #9 (Bloomberg Businessweek) Tepper School of Business and #1 (US News & World Report) School of Computer Science and Human Computer Interaction Institute',
+      descBullets: [
+        'The Accelerate Leadership Assessment',
+        'Business Fundamentals for High Technology Product Management',
+        'Design of Artificial Intelligent Products',
+        'Technology Product Marketing',
+        'Data Science for Product Managers',
+        'HCI',
+        'High Technology Product Strategy',
+        'Business Communications',
+        'Managing People and Teams',
+        'Business Schools Electives from Tepper Course Catalog',
+        'Capstone Project',
+
+
+        'Technical Product Skills: DNN, LLM, AI/ML, Computer Vision, Robotics',
+      ],
+    },
+    
+
     {
       schoolName: 'Jadavpur University',
       logo: require('./assets/images/harvardLogo.png'),
