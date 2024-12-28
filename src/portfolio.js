@@ -243,12 +243,14 @@ const workExperiences = {
       role: 'Lead Product Engineer - IC Design',
       company: 'Silicon Laboratories',
       companylogo: require('./assets/images/silabs.webp'),
-      date: 'Apr 2024 – Present',
+      date: 'Apr 2024 – Dec 2025',
       desc:
-        'Hyderabad, India - Central R&D and IoT Solutions development',
+        'Hyderabad, India - Central R&D (Wireless) ',
         descBullets: [
-        'Silicon product development, design, verification, engineering management, central r&d',
-        'Leading teams for IoT hardware solutions development, subsystem and SoC level development and validation of critical KPIs'
+        'Ultra-Low-Power Solutions: Managed 3-engineer team creating edge IoT solutions; created technical modules reducing ramp-up time 90% and increasing productivity 80%, accelerating product development', 
+        'Power Integration Infrastructure: Established cross-site chip power integration design and verification infrastructure; curtailed Turn-Around Time for key power features by 50% and debug/validation by 98%', 
+        'Revenue Generation: Incorporated legacy chip improvements, contributing $100M Lifetime Revenue from major clients; reduced product engineering TAT 70% through roadmap planning',
+        'Market Expansion: Delivered 85% chip power reduction through iterative prototyping; optimized architectural features doubling addressable market from to $160M, positioning products for IoT needs',
         ],
     },
 
@@ -258,7 +260,7 @@ const workExperiences = {
       companylogo: require('./assets/images/Qualcomm.jfif'),
       date: 'Jun 2023 – Apr 2024',
       desc:
-        'Cork, Ireland - GPU product engineering',
+        'Cork, Ireland - GPU ASIC engineering',
         descBullets: [
         'Leadership and Training Development: Established and led a team of 7+, including senior engineers, to develop GPU product engineering capabilities in Ireland; built training modules that reduced new hire ramp-up time by 60% and increased team productivity by 40%, with these modules later adopted globally',
         'Innovative Product Development: Implemented a custom API using UPF to automate power management verification, significantly reducing turnaround time by 45%; developed a scalable tool across 4 GPU versions, enhancing product adaptability in compute, mobile, auto, and HPC markets',
@@ -291,7 +293,7 @@ const workExperiences = {
       companylogo: require('./assets/images/intel.jfif'),
       date: 'May 2021 – Oct 2021',
       desc:
-        ' Bangalore, India - IPU and Automotive/Robotics: Emerging Growth Incubation',
+        ' Bangalore, India - IPU: Emerging Growth Incubation',
         descBullets: [
         'Process Automation and Efficiency: Developed a software tool to automatically triage weekly regressions and simulation failures, processing approximately 50 gigabytes of data per week; this resulted in a 25% improvement in engineering productivity and a 30% reduction in debug time, shortening the product development lifecycle by 15%; also enhanced user experience by refining user flows based on feedback from over 50 user interviews and market analysis, expanding the user base from 12 to 110 in four months',
         'Advanced Data Analysis and Cost Saving: Identified and addressed technical debt by automating the analysis of waveform metadata from 3-4 terabytes of design data, which doubled testing efficiency and increased feature coverage by 28%, saving $130K per development cycle; led a team of nine to oversee coverage closure activities across IP, SS, and SoC scales, meeting over 10 functional safety standards for automotive silicon products and achieving 100% reliability',
@@ -318,7 +320,7 @@ const workExperiences = {
       companylogo: require('./assets/images/samsung.jfif'),
       date: 'May 2018 – Jul 2018 (Internship)',
       desc:
-        'Bangalore, India - DRAM IP Product Development Team',
+        'Bangalore, India - DRAM IP Design Team',
       descBullets: [
         'Problem Solving and Engineering: Researched and performed 10-15 A/B tests of resource and run-time heavy march algorithms of proprietary memory built-in self-test IP of Samsung. Made recommendations to senior management a hardware-centric algorithm to enhance testing time by 35%. Engineered and prototyped the solution and validated the same in a FPGA platform',
       ]
