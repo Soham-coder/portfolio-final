@@ -13,7 +13,8 @@ const greeting = {
   title: "About Me",
   subTitle: emoji('I am a Product Management Professional and Semiconductor Specialist with 6 years of experience in edge AI silicon, ultra-low-power architectures, high-performance GPUs, high-bandwidth memory solutions, and IoT ecosystems. My work bridges edge IoT, AI client compute, and HPC data centers, driving scalable growth and operational efficiency through cutting-edge technology aligned with strategic objectives. I specialize in translating complex business needs into advanced semiconductor solutions by combining technical expertise, market intelligence, and cross-functional leadership. My initiatives have consistently delivered value to stakeholders, fostered innovation, and created sustainable competitive advantages in dynamic industries. Currently pursuing my Master’s in Product Management at Carnegie Mellon University’s Tepper School of Business, I am sharpening my skills in product management, technology strategy, technical product marketing, business leadership, and product innovation. Passionate about intelligent, connected, and energy-efficient systems, I aim to leverage advancements in AI, IoT, and HPC to develop transformative solutions that meet emerging industry needs. Let’s connect to explore opportunities where I can contribute to impactful product strategies and groundbreaking innovations.'),
   resumeLink:
-    'https://www.slideshare.net/slideshow/rsum-2-pager-12-ft-standard-syntax/267677575',
+    //'https://www.slideshare.net/slideshow/rsum-2-pager-12-ft-standard-syntax/267677575', //2 pager for cmu mspm application
+    'https://docs.google.com/document/d/1awYV_XeFQWCzqCU24BWFU7MgoTpyNoIP/edit?usp=sharing&ouid=104985239470202936383&rtpof=true&sd=true',
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -21,15 +22,15 @@ const greeting = {
 
 const socialMediaLinks = {
   linkedin: 'https://www.linkedin.com/in/sohammn',
-  github: 'https://github.com/Soham-coder',
-  gmail: 'sohammon@andrew.cmu.edu',
-  //gitlab: 'https://www.researchgate.net/profile/Soham-Mondal-3',
-  facebook: 'https://www.facebook.com/soham.mondal.792/',
-  git_repo: 'https://github.com/Soham-coder?tab=repositories',
   researchgate: 'https://www.researchgate.net/profile/Soham-Mondal-3',
+  github: 'https://github.com/Soham-coder',
+  git_repo: 'https://github.com/Soham-coder?tab=repositories',
+  gmail: 'sohammon@andrew.cmu.edu',
+
   //medium: 'https://medium.com/@saadpasta',
   //stackoverflow: 'https://stackoverflow.com/users/10422806/saad-pasta',
   instagram : 'https://www.instagram.com/soh.mn/',
+  
   display: true, // Set true to display this section, defaults to false
 };
 
@@ -217,15 +218,15 @@ const techStack = {
     },
     {
       Stack: 'Product Marketing',
-      progressPercentage: '100%',
+      progressPercentage: '90%',
     },
     {
     Stack: 'Business Development',
-    progressPercentage: '100%',
+    progressPercentage: '95%',
     },
     {
       Stack: 'Project Management', //Insert stack or technology you have experience in
-      progressPercentage: '70%', //Insert relative proficiency in percentage
+      progressPercentage: '60%', //Insert relative proficiency in percentage
     },
   ],
   displayCodersrank: true, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -536,7 +537,7 @@ const achievementSection = {
         { name: 'Acknowledgement', url: 'https://www.slideshare.net/slideshow/marketing-expansion-strategist-at-mentored-research/267550151' },
       ],
     },
-/*
+
     {
       title: 'Marketing Analyst at Qrius (formerly the Indian Economist) (2018)',
       subtitle: 'Conducted a consulting thesis on Psychology of Persuasion (Robert Cialdini) and devise competitive and conclusive strategies to increase sales of E-commerce. Got exposure to sales management of brick and mortar business and risk management',
@@ -544,7 +545,7 @@ const achievementSection = {
       footerLink: [
         { name: 'Acknowledgement', url: 'https://www.slideshare.net/slideshow/experience-certificate-marketing-analystsoham-mondalpdf/267551673' },
       ],
-    },*/
+    },
 /*
     {
       title: 'Equity Researcher at Money Roller (2017)',
@@ -591,7 +592,7 @@ const achievementSection = {
       ],
     },
     */
-   /*
+   
     {
       title: 'Fine Arts 🎨',
       subtitle: '3rd prize in fine arts inter-school competition UDAAN (25 schools participated in Kolkata) in the state of West Bengal by the Government of India (2007)',
@@ -599,7 +600,7 @@ const achievementSection = {
       footerLink : [
         { name: 'South Point High School', url: 'https://www.linkedin.com/school/south-point-high-school/?originalSubdomain=in' },
       ],
-    },*/
+    },
 
     {
       title: 'Student Mentor at Jadavpur University Science Club',
@@ -618,14 +619,14 @@ const achievementSection = {
         { name: 'Jadavpur University Model United Nations', url: 'https://www.linkedin.com/company/jadavpur-university-model-united-nations/?originalSubdomain=in' },
       ],
     },
-    /*{
+    {
       title: 'Toastmaster',
       subtitle: 'Involved in debate, discussions, delivering speeches and organising the events. Acted as toasmaster (3+ months) in spiritual talk speaker series in Toastmaster International Intel Corporation Chapter (2021-2022); ',
       image: require('./assets/images/toastmaster.webp'),
       footerLink : [
         { name: 'Toastmaster International', url: 'https://www.toastmasters.org/' },
       ],
-    },*/
+    },
 
     {
       title: 'Community Services',
@@ -650,7 +651,7 @@ display: true, // Set false to hide this section, defaults to true
 const blogSection = {
   title: 'Blogs',
   subtitle:
-    'I used to maintain a blog on different concepts and applications of ultra-low power silicon development. Many interview questions and concepts of prototype design and tesbench infrastructure development from scratch were incorporated which have helped many engineers, product developers (junior, mid-level along with seasoned professionals in the industry) in their job search and placement journey.  But, for now it is kept inactive for a while for minor reasons. Apologies for the inconvenience! 😞 ',
+    'I previously maintained a blog on ultra-low-power silicon development, offering insights on VLSI architecture design and testbench concepts that supported engineers and product developers in their careers.',
 
   blogs: [
     {
@@ -720,7 +721,7 @@ const podcastSection = {
   subtitle: '❤️‍🔥 Passionate about creation and delivery of impactful and user-centric products & solutions that resonate with both stakeholders and end-users, together as a team and utilising our own unique strengths, fostering inclusivity and properity',
   // Please Provide with Your Podcast embeded Link
   subsubtitle: '❤️‍🔥 Passionate about technical product management (software & hardware), power, performance and security efficient silicon and systems, high-technology products and services, AI & GenAI',
-  subsubsubtitle: '🧘 Hobbies - Karate, Yoga, Cycling, Travelling, Blogging, Reading Books and Watching global news about economics and current affairs! 💡 Interest in socio-economic micro/macro factors impacting the world, spiritual discussions. Outside work love to take part in constructive debates and discussions',
+  subsubsubtitle: '🧘 Hobbies - Karate, Yoga, Cycling, Travelling, Blogging, Reading Books and watching global news about economics and current affairs! 💡 Interest in socio-economic micro/macro factors impacting the world, spiritual discussions. Outside work love to take part in constructive debates and discussions',
   podcast: [
     //'https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo',
   ],
@@ -729,9 +730,9 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji(""),
-  subtitle:"☎️ +91-8335805583",
-  number: "",
-  email_address: "sohammondal39@gmail.com"
+  subtitle:"☎️ +1 412 567 2918",
+  number: "+91-8335805583",
+  email_address: "sohammon@andrew.cmu.edu"
 };
 
 // Twitter Section
