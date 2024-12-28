@@ -210,7 +210,7 @@ const techStack = {
       progressPercentage: '100%',
     },
     {
-      Stack: 'Engineering Management',
+      Stack: 'Engineering Managemen',
       progressPercentage: '90%',
     },
     {
