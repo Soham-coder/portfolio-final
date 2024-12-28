@@ -11,7 +11,7 @@ const illustration = {
 const greeting = {
   username: 'Soham Mondal',
   title: "About Me",
-  subTitle: emoji('Technical Product Manager specializing in ultra-low power, energy-efficient edge AI silicon and software ecosystems. Focused on driving innovation for next-gen AI, IoT, gaming, and smart devices by translating business needs into advanced semiconductor solutions. Passionate about integrating edge AI to enhance product capabilities and create impactful, scalable ecosystems.'),
+  subTitle: emoji('I am a Product Management Professional and Semiconductor Specialist with 6 years of experience in edge AI silicon, ultra-low-power architectures, high-performance GPUs, high-bandwidth memory solutions, and IoT ecosystems. My work bridges edge IoT, AI client compute, and HPC data centers, driving scalable growth and operational efficiency through cutting-edge technology aligned with strategic objectives. I specialize in translating complex business needs into advanced semiconductor solutions by combining technical expertise, market intelligence, and cross-functional leadership. My initiatives have consistently delivered value to stakeholders, fostered innovation, and created sustainable competitive advantages in dynamic industries. Currently pursuing my Master’s in Product Management at Carnegie Mellon University’s Tepper School of Business, I am sharpening my skills in product management, technology strategy, technical product marketing, business leadership, and product innovation. Passionate about intelligent, connected, and energy-efficient systems, I aim to leverage advancements in AI, IoT, and HPC to develop transformative solutions that meet emerging industry needs. Let’s connect to explore opportunities where I can contribute to impactful product strategies and groundbreaking innovations.'),
   resumeLink:
     'https://www.slideshare.net/slideshow/rsum-2-pager-12-ft-standard-syntax/267677575',
   displayGreeting: true, // Set false to hide this section, defaults to true
@@ -20,9 +20,9 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: 'https://github.com/Soham-coder',
   linkedin: 'https://www.linkedin.com/in/sohammn',
-  gmail: 'sohammondal39@gmail.com',
+  github: 'https://github.com/Soham-coder',
+  gmail: 'sohammon@andrew.cmu.edu',
   //gitlab: 'https://www.researchgate.net/profile/Soham-Mondal-3',
   facebook: 'https://www.facebook.com/soham.mondal.792/',
   git_repo: 'https://github.com/Soham-coder?tab=repositories',
@@ -36,30 +36,17 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: 'What I do',
-  subTitle: 'Languages , tools and skills',
+  title: 'Programming',
+  subTitle: 'Languages and tools ',
   skills: [
     emoji(
-      '⚡Experienced in silicon product development, end-to-end ASIC development cycle, architecture, design and verification'
+      '⚡ Expert in Ultra-Low-Power Silicon and Edge AI Ecosystems: • Proven experience in end-to-end silicon development and energy-efficient architecture design, specializing in ultra-low-power systems and AI accelerators for edge computing'
     ),
-    emoji('⚡Extensive coursework in Product management, and experience in end-to-end hardware and software product development and lifecycle. Adept in product discovery, user-research, product analytics, hypothesis and validation, product requirement gathering, product roadmap and wireframing, prototyping, A/B testing, engineering sprint management and go-to-market strategy'
+    emoji('⚡Driving Innovation at the Intersection of Hardware, Software, and Ecosystems: • Passionate about integrating edge AI into products to enhance capabilities, scalability, and impact, with expertise in co-designing silicon, software, and scalable ecosystems'
           ),
-    emoji('⚡Valuable exposure to marketing strategies, SWOT, PESTEL analysis, market research, customer segment, marketing and distribution channels, business recommendations, product-market-fit, product launch, go-to-market and launch strategies through real world not-for-profit consulting experience and business case studies'),
-    emoji('⚡Used product design and collaboration tools like Canva, Mural, Figma and project management tools like JIRA and Confluence'),
-    emoji('⚡Skilled in C/C++, embedded programming, python for embedded systems development and engineering automation, Skilled in Java/Javascript, HTML, CSS, NodeJs, React and SQL for front-end development and database management'
-          ),
-    emoji(
-      '⚡Hands on in verilog, system-verilog, system-c, multiple EDA softwares for comprehensive hardware design, verification and validation'
-    ),
-    emoji(
-      '⚡Have extensive knowledge in various industry standard and native protocols including RISCV, low power design and verification, sparse CNN and DNN inference accelerator architectures, neural networks, Tensorflow, PyTorch, building customised neural nets for edge AI applications'
-    ),
-    emoji(
-      '⚡Explored domain specific accelerators, sparse DNN training/inference accelerators, low power verification automation, Spiking Neural Networks and design verification automation' ),
-    emoji(
-        '⚡Have experience in Version Control Systems and robust deployment and backend development in Netlify, Heroku, Flask, Docker'
-      ),
-    emoji('⚡Passionate about technical product management(sw & hw), power, performance and security efficient silicon and systems, high-tech products and services' ),
+    emoji('⚡Comprehensive Product Management and Marketing Expertise: • Skilled in product discovery, user research, roadmap creation, go-to-market strategies, and building ecosystems aligned with market and user needs • Real-world business development and consulting experience, including market research, product-market fit, SWOT, PESTEL analysis, and launching impactful products'),
+    emoji('⚡Technical and Business Versatility • Proficient in embedded programming (C/C++, Python), hardware design & verification (Verilog, SystemVerilog), and software development (React, Node.js, SQL). • Hands-on with AI/ML models, sparse DNN accelerators, and power-performance optimization for scalable edge solutions'),
+    emoji('⚡Passionate About High-Tech Product Leadership • Committed to leading and marketing cutting-edge, energy-efficient technology products, bridging technical innovation with strategic business impact'),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -115,7 +102,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fas fa-code-branch',
     },
     {
-      skillName: 'Mural, Canva',
+      skillName: 'Mural, Canva, Office, Visio',
       fontAwesomeClassname: 'fas fa-marker',
     },
     {
@@ -140,14 +127,14 @@ const educationInfo = {
       desc: 'An elite, STEM-designated, accelerated Tech MBA, precision-engineered for high-tech product management, seamlessly integrating advanced business strategy, AI, design, and leadership. Offered by the world-renowned Tepper School of Business (#9, Bloomberg) in collaboration with the #1-ranked School of Computer Science (US News) and the prestigious Human-Computer Interaction Institute, this ultra-competitive program delivers an unrivaled fusion of business and cutting-edge technology expertise',
      /* desc: 'An ultra-competitive STEM-designated accelerated tech-MBA program razor focused towards high technology product management coursework integrating the right mix of business, high-technology, design, AI strategy and leadership skills from global #9 (Bloomberg Businessweek) Tepper School of Business and #1 (US News & World Report) School of Computer Science and Human Computer Interaction Institute',*/
       descBullets: [
-        'The Accelerate Leadership Assessment',
+        'The Accelerate Leadership',
         'Business Fundamentals for High Technology Product Management',
         'Design of Artificial Intelligent Products',
         'Technology Product Marketing',
         'Data Science for Product Managers',
         'HCI',
         'High Technology Product Strategy',
-        'Business Communications',
+        'Business Communications and Presentations',
         'Managing People and Teams',
         'Business Schools Electives from Tepper Course Catalog',
         'Capstone Project',
@@ -192,10 +179,11 @@ const educationInfo = {
       desc:
         'Consistent performer; ranked within top 1%ile in class from classes 1 to 12',
       descBullets: [
-        'Stage-1 Qualifier in NTSE by MHRD, India (4000+ students) (2011) ',
-        '3rd prize in fine arts inter-school competition (25 schools @ Kolkata) in the state of West Bengal by the Government of India (2007)',
         'W.B.S.E (10th)- 90.28%',
         'W.B.C.H.S.E (12th)- 85%',
+        '3rd prize in fine arts inter-school competition (25 schools @ Kolkata) in the state of West Bengal (2007)',
+        'NTSE (2011)'
+        
       ],
 
     },
@@ -212,20 +200,28 @@ const techStack = {
       progressPercentage: '60%', //Insert relative proficiency in percentage
     },
     {
-      Stack: 'Frontend/Design', //Insert stack or technology you have experience in
+      Stack: 'Product Lifecycle Management', //Insert stack or technology you have experience in
       progressPercentage: '75%', //Insert relative proficiency in percentage
     },
     {
-      Stack: 'Backend',
-      progressPercentage: '50%',
+      Stack: 'Technical Leadership',
+      progressPercentage: '100%',
     },
     {
-      Stack: 'Programming',
+      Stack: 'Engineering Management',
       progressPercentage: '90%',
     },
     {
-      Stack: 'ASIC Development',
+      Stack: 'Market Research',
       progressPercentage: '100%',
+    },
+    {
+      Stack: 'Product Marketing',
+      progressPercentage: '100%',
+    },
+    {
+    Stack: 'Business Development',
+    progressPercentage: '100%',
     },
     {
       Stack: 'Project Management', //Insert stack or technology you have experience in
@@ -312,14 +308,8 @@ const workExperiences = {
         'Innovation and Recognition: Authored and presented a white paper at the Samsung Global Engineering Conference, which significantly raised the technical profile and influence of the group; received the 3rd prize among 150+ entries, highlighting the innovative approach to semiconductor engineering', 
       ],
     },
-   /*{
-      role: 'Front-End Developer',
-      company: 'Quora',
-      companylogo: require('./assets/images/quoraLogo.png'),
-      date: 'May 2017 – May 2018',
-      desc:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    },*/
+   
+     
     {
       role: 'Assistant Engineer',
       company: 'Samsung Semiconductor',
@@ -436,9 +426,9 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji('Some Certifications 📄 & Extra-Curriculars 🏃'),
+  title: emoji('Some Certifications 📄 & Co/Extra-Curriculars 🏃'),
   subtitle:
-    'Some Certifications & Extra-Curriculars (mostly not mentioned in my Résumé)',
+    'Some Certifications & Co/Extra-Curriculars',
 
   achievementsCards: [
 
@@ -470,7 +460,7 @@ const achievementSection = {
       ],
     },
 
-   /* {
+    {
       title: 'Marketing Management Certificate @ IIM Lucknow',
       subtitle: 'Product Road Mapping, Product Strategy, Marketing Strategy, Brand Positioning',
       image: require('./assets/images/iiml.webp'),
@@ -486,8 +476,8 @@ const achievementSection = {
       footerLink: [
         { name: 'Acknowledgement', url: 'https://www.slideshare.net/slideshow/business-development-and-product-strategy-for-a-sme-named-sarl-based-in-lebanon-as-part-of-a-local-ngo-zahle-casa-initiativecertificate/267528925'},
       ],
-    },*/
-
+    },
+/*
     {
       title: 'Network Management intern @Nettech Pvt. Ltd and IT management intern @ONGC Pvt. Ltd',
       subtitle: 'Internship and hands-on-training in systems programming, computer networks, network and information security, firewall, DoS and cyber attacks setted up realtime startopology LAN network of 25+ workstations and a HTTP application server',
@@ -496,6 +486,7 @@ const achievementSection = {
         { name: 'Internship', url: 'https://www.slideshare.net/slideshow/network-management-internship-at-nettech-pvt-ltd-and-ongc-pvt-ltd/267531986' },
       ],
     },
+    */
     {
       title: 'Silicon Engineering Professional Certifications',
       subtitle: 'Low power silicon product development, architecture, design, verification, scalable testbench infrsatructure creation, and simulation infrastructure programming',
@@ -506,6 +497,7 @@ const achievementSection = {
         { name: 'Xcelium Simulator v19.03 Exam', url: 'https://www.youracclaim.com/badges/5b737b9d-edbb-47c3-91d3-e71886d7b176?source=linked_in_profile' },
       ],
     },
+
     {
       title: 'Low power performance efficient high-quality silicon design',
       subtitle: 'Low power architecture and design concepts and applications in ultra-low power silicon product development',
@@ -515,7 +507,8 @@ const achievementSection = {
         { name: 'SV assertion for design and verification', url: 'https://www.udemy.com/certificate/UC-3fc08d5e-10dc-4270-88ad-15aad1f1d4fb/' },
         { name: 'Timing constraints and STA', url: 'https://verified.sertifier.com/en/verify/21774893908771/' },
       ],
-    }, 
+    },
+    /* 
     {
       title: 'Programming Essentials',
       subtitle: 'C standard library, C programming for Embedded Applications, Bash scripting',
@@ -526,7 +519,7 @@ const achievementSection = {
         { name: 'Bash Scripting', url: 'https://www.linkedin.com/learning/certificates/15752e13a61bfc0e3d47c090d947854a3fee27c16bb32aadcac476b91f0284f2?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BFPRv2JaPSjqVt5MkT71Z%2Fg%3D%3D' },
       ],
     },
-    /*
+*/
     {
       title: 'Student Partner for Internshala (2016)',
       subtitle: 'Acted as student partner for Internshala in 2016, for Jadavpur University and conducted marketing campaigns, social media marketing, social outreach programs to increase members by 125+, increase product reach by 15% (new market) and customer satisfaction by 70%',
@@ -543,7 +536,7 @@ const achievementSection = {
         { name: 'Acknowledgement', url: 'https://www.slideshare.net/slideshow/marketing-expansion-strategist-at-mentored-research/267550151' },
       ],
     },
-
+/*
     {
       title: 'Marketing Analyst at Qrius (formerly the Indian Economist) (2018)',
       subtitle: 'Conducted a consulting thesis on Psychology of Persuasion (Robert Cialdini) and devise competitive and conclusive strategies to increase sales of E-commerce. Got exposure to sales management of brick and mortar business and risk management',
@@ -551,8 +544,8 @@ const achievementSection = {
       footerLink: [
         { name: 'Acknowledgement', url: 'https://www.slideshare.net/slideshow/experience-certificate-marketing-analystsoham-mondalpdf/267551673' },
       ],
-    },
-
+    },*/
+/*
     {
       title: 'Equity Researcher at Money Roller (2017)',
       subtitle: 'Conducted global financial market research on Gold price valuation and financial modeling',
@@ -561,6 +554,8 @@ const achievementSection = {
         { name: 'Acknowledgement', url: 'https://drive.google.com/file/d/0BxM540VPs0PdUVlSbmp0dGNqNHc/view' },
       ],
     },
+    */
+   /*
     {
       title: '3rd prize (work smart category) in One Solution Conference by Samsung Global R&D',
       subtitle:
@@ -574,8 +569,8 @@ const achievementSection = {
         },
       ],
     },
-    
-
+    */
+/*
     {
       title: 'Novel encryption algorithm and software development',
       subtitle: 'Awarded 2nd prize in the event Papier (scientific paper presentation) conducted by Jadavpur University Electrical Engineering Department, named Convolution, under the aegis of IET and IEEE Signal Processing Society in 2018',
@@ -584,6 +579,8 @@ const achievementSection = {
         { name: 'Prize', url: 'https://github.com/Soham-coder/ecc_vs_rsa#prizes' },
       ],
     },
+    */
+   /*
     
     {
       title: 'Employee of the month at Samsung Semiconductor India Research',
@@ -592,8 +589,9 @@ const achievementSection = {
       footerLink : [
         { name: 'Prize 1', url: 'https://www.slideshare.net/slideshow/employee-of-the-month-samsung-semiconductor-india-research/267528754' },
       ],
-    },*/
-   
+    },
+    */
+   /*
     {
       title: 'Fine Arts 🎨',
       subtitle: '3rd prize in fine arts inter-school competition UDAAN (25 schools participated in Kolkata) in the state of West Bengal by the Government of India (2007)',
@@ -601,8 +599,8 @@ const achievementSection = {
       footerLink : [
         { name: 'South Point High School', url: 'https://www.linkedin.com/school/south-point-high-school/?originalSubdomain=in' },
       ],
-    },
-/*
+    },*/
+
     {
       title: 'Student Mentor at Jadavpur University Science Club',
       subtitle: 'Assistant-VP JU Science Club; Organized annual techno-management fest Srijan; increased footfall from 400 to 700+; Mentored a junior team of 7+ (1st runners up prize in 1 competition)',
@@ -620,28 +618,28 @@ const achievementSection = {
         { name: 'Jadavpur University Model United Nations', url: 'https://www.linkedin.com/company/jadavpur-university-model-united-nations/?originalSubdomain=in' },
       ],
     },
-    */
-   /*
-    {
+    /*{
       title: 'Toastmaster',
       subtitle: 'Involved in debate, discussions, delivering speeches and organising the events. Acted as toasmaster (3+ months) in spiritual talk speaker series in Toastmaster International Intel Corporation Chapter (2021-2022); ',
       image: require('./assets/images/toastmaster.webp'),
       footerLink : [
         { name: 'Toastmaster International', url: 'https://www.toastmasters.org/' },
       ],
-    },
+    },*/
+
     {
       title: 'Community Services',
       subtitle: 'Donated educational resources and stationery items for sensitization of 70 underprivileged students in an NGO under the aegis of Bharat Sevasram Trust (2021). Instructor for Physics, Mathematics for 20+ JEE and NEET aspirants (2016-2019); Volunteer in Doddanakundi (largest natural lake in Bangalore India) cleaning drive as part of ESG initiative and CSR activities',
       image: require('./assets/images/community_service.webp'),
       footerLink : [],
-    }, */
+    }, 
+    /*
     {
       title: 'Outdoor games',
       subtitle: 'Playing Cricket 🏏',
       image: require('./assets/images/cricket.webp'),
       footerLink : [],
-    },
+    },*/
 
 ],
 display: true, // Set false to hide this section, defaults to true
