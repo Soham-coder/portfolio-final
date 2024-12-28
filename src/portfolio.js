@@ -243,7 +243,7 @@ const workExperiences = {
       role: 'Lead Product Engineer - IC Design',
       company: 'Silicon Laboratories',
       companylogo: require('./assets/images/silabs.webp'),
-      date: 'Apr 2024 – Dec 2025',
+      date: 'Apr 2024 – Dec 2024',
       desc:
         'Hyderabad, India - Central R&D (Wireless) ',
         descBullets: [
