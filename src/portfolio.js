@@ -733,9 +733,9 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji(""),
-  subtitle:"☎️ +1 412 567 2918",
+  subtitle:"☎️ +1 412 284 8952",
   number: "+91-8335805583",
-  email_address: "sohammon@andrew.cmu.edu"
+  email_address: "sohammon@tepper.cmu.edu"
 };
 
 // Twitter Section
